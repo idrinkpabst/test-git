@@ -20,7 +20,7 @@ A bit of the GitHub spice
 
 In addition to the changes in the previous section, certain references are auto-linked:
 
-* SHA: be6a8cc1c1ecfe9489fb51e4869af15a13fc2cd2
+* SHA: be6a8cc
 * User@SHA ref: mojombo@be6a8cc1c1ecfe9489fb51e4869af15a13fc2cd2
 * User/Project@SHA: mojombo/god@be6a8cc1c1ecfe9489fb51e4869af15a13fc2cd2
 * \#Num: #1
@@ -29,4 +29,4 @@ In addition to the changes in the previous section, certain references are auto-
 
 These are dangerous goodies though, and we need to make sure email addresses don't get mangled:
 
-My email addy is tom@github.com.
+My email addy is jake@github.com.
