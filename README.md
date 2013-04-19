@@ -10,7 +10,7 @@ Violets are orange
 
 The next paragraph has the same phrases, but now they are separated by two spaces and a newline character:
 
-Roses are red  
+Roses are ready  
 Violets are orange
 
 Oh, and one thing I cannot stand is the crinkling of words with multiple underscores in them like perform_complicated_task or do_this_and_do_that_and_another_thing.
