@@ -5,13 +5,13 @@
 # below each fixture, per the syntax in the comments below
 #
 one: {}
-# column: value
+# column: value1
 #
 deux: {}
-#  column: value
+#  column: value1
 
 trois: {}
-#  column: value
+#  column: value1
 
 quatre: {}
-#  column: value
+#  column: value1
