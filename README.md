@@ -6,6 +6,7 @@ GitHub Flavored Markdown
 Let's get the half "linebreak" thing out of the way. The next paragraph contains two phrases separated by a single newline character:
 
 Roses are golden
+
 Violets are orange
 
 The next paragraph has the same phrases, but now they are separated by two HUGE spaces and a newline character:
