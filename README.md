@@ -29,4 +29,4 @@ In addition to the changes in the previous section, certain references are auto-
 
 These are dangerous goodies though, and we need to make sure email addresses don't get mangled:
 
-My email addy is tom@github.com.
+My email addy is jake@github.com.
