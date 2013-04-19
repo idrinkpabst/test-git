@@ -8,7 +8,7 @@ Let's get the half "linebreak" thing out of the way. The next paragraph contains
 Roses are red
 Violets are orange
 
-The next paragraph has the same phrases, but now they are separated by two spaces and a newline character:
+The next paragraph has the same phrases, but now they are separated by two HUGE spaces and a newline character:
 
 Roses are ready  
 Violets are orange
