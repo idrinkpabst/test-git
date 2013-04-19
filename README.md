@@ -22,7 +22,7 @@ In addition to the changes in the previous section, certain references are auto-
 
 * SHA: be6a8cc
 * User@SHA ref: mojombo@be6a8cc1c1ecfe9489fb51e4869af15a13fc2cd2
-* User/Project@SHA: mojombo/god@be6a8cc1c1ecfe9489fb51e4869af15a13fc2cd2
+* User/Project@SHA: mojombo/god@be6a8cc1c1e
 * \#Num: #1
 * User/#Num: mojombo#1
 * User/Project#Num: mojombo/god#1
