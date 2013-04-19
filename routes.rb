@@ -1,4 +1,4 @@
-VbTransSim::Application.routes.draw do
+GitTest::Application.routes.draw do
   devise_for :users
 
   root :to => 'simulations#simulate'
